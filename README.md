@@ -23,7 +23,12 @@ Permite a los usuarios ingresar los nombres de los participantes y realizar un s
 4. La aplicación seleccionará aleatoriamente un participante y mostrará el resultado.
 
 ## 📷 Vista Previa
-![Amigo Secreto](assets/amigo-secreto.png)
+<p align="center">
+    <a href="https://files.catbox.moe/page0p.mp4">
+        <img src="https://i.postimg.cc/tCDZgKgq/Captura-de-pantalla-717.png)](https://postimg.cc/8jJPKnW9)" width="1000" alt="Ver video">
+    </a>
+</p>
+
 
 
 🚀 **¡Diviértete organizando tu sorteo de Amigo Secreto!** 🎁
