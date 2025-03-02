@@ -1,4 +1,4 @@
-# Amigo Secreto - Aplicación Interactiva para Sorteos
+# Amigo Secreto 
 
 ## 📌 Descripción del Proyecto
 Este proyecto es una aplicación web interactiva diseñada para facilitar el  juego del **Amigo Secreto**.
