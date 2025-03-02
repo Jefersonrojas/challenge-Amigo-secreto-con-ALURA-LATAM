@@ -24,9 +24,9 @@ Permite a los usuarios ingresar los nombres de los participantes y realizar un s
 
 ## 📷 Vista Previa
 <p align="center">
-    <a href="">
-        <img src="https://i.postimg.cc/tCDZgKgq/Captura-de-pantalla-717.png)](https://postimg.cc/8jJPKnW9)" width="1000" alt="Ver video">
-    </a>
+    
+    <img src="https://i.postimg.cc/tCDZgKgq/Captura-de-pantalla-717.png)](https://postimg.cc/8jJPKnW9)" width="1000" alt="Ver video">
+    
 </p>
 
 
