@@ -24,7 +24,7 @@ Permite a los usuarios ingresar los nombres de los participantes y realizar un s
 
 ## 📷 Vista Previa
 <p align="center">
-    <a href="https://streamable.com/9rw196">
+    <a href="">
         <img src="https://i.postimg.cc/tCDZgKgq/Captura-de-pantalla-717.png)](https://postimg.cc/8jJPKnW9)" width="1000" alt="Ver video">
     </a>
 </p>
